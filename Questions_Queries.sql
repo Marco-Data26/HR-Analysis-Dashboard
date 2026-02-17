@@ -40,17 +40,6 @@ GROUP BY location
 ORDER BY Count DESC;
 
 -- 6. What is the average length of employment for employees who have been terminated?
-ALTER TABLE [Human Resources]
-ADD Length_Of_Employment DECIMAL(4,2);
-
-UPDATE [Human Resources]
-SET Length_Of_Employment = DATEDIFF(DAY,hire_date,termdate)/365.0
-WHERE termdate IS NOT NULL;
-
-UPDATE [Human Resources]
-SET Length_Of_Employment = DATEDIFF(DAY,hire_date,GETDATE())/365.0
-WHERE termdate IS NULL;
-
 SELECT AVG(Length_Of_Employment) AS the_average_length_of_employment 
 FROM [Human Resources]
 WHERE termdate IS NOT NULL AND termdate <= GETDATE();
@@ -102,5 +91,6 @@ FROM [Human Resources]
 WHERE termdate IS NOT NULL AND termdate <= GETDATE()
 GROUP BY department
 ORDER BY Avg_tenure DESC;
+
 
 
