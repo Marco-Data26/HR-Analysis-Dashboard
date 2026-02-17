@@ -27,4 +27,16 @@ ADD Age INT;
 UPDATE [Human Resources]
 SET Age = DATEDIFF(year,birthdate,GETDATE());
 
+ALTER TABLE [Human Resources]
+ADD Length_Of_Employment DECIMAL(4,2);
+
+UPDATE [Human Resources]
+SET Length_Of_Employment = DATEDIFF(DAY,hire_date,termdate)/365.0
+WHERE termdate IS NOT NULL;
+
+UPDATE [Human Resources]
+SET Length_Of_Employment = DATEDIFF(DAY,hire_date,GETDATE())/365.0
+WHERE termdate IS NULL;
+
 SELECT min(Age),max(Age) FROM [Human Resources];
+
