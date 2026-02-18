@@ -13,7 +13,7 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 **Data** - HR Data containing over 22000 records from the year 2000 to 2020.
 
-**Data Source** - (Human Resources.csv)
+**Data Source** - (Human%20Resources.csv)
 
 **Data Cleaning & Analysis** - SQL server
 
