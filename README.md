@@ -49,4 +49,4 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 ## Limitations
 
-+ Some termdates were far into the future and were not included in the analysis(1116 records). The only term dates used were those less than or equal to (31 Dec 2020).
++ Some termdates were far into the future and were not included in the analysis (1116 records). The only term dates used were those less than or equal to (31 Dec 2020).
