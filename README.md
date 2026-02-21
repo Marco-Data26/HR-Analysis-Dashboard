@@ -19,19 +19,9 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 **Data Visualization** - PowerBI
 
-## Questions
+## Objective
 
-1. What is the gender breakdown of employees in the company?
-2. What is the race/ethnicity breakdown of employees in the company?
-3. What is the age distribution of employees in the company?
-4. How many employees work at headquarters versus remote locations?
-5. What is the average length of employment for employees who have been terminated?
-6. How does the gender distribution vary across departments and job titles?
-7. What is the distribution of job titles across the company?
-8. Which department has the highest turnover rate?
-9. What is the distribution of employees across locations by state?
-10. How has the company's employee count changed over time based on hire and term dates?
-11. What is the tenure distribution for each department?
+
 
 ## Key Insights
 
@@ -46,6 +36,10 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
  - The average tenure for each department is about 6.46 years with Marketing have the highest and Support, Legal and Auditing having the lowest.
  - The Auditing department has the highest turnover rate (0.12) and the least is Businees Development (0.08).
  - The Employee cohort retention has increased over the years.
+
+  ## Recommendations
+
+  
 
 ## Note
 
