@@ -49,4 +49,4 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 ## Note
 
-- The analysis I conducted in this report covers the period from 2000 to 2020. Employees who left after 2020 were included in the analysis as if they were still active durning the 2000 to 2020 period.  
+- The analysis presented in this report covers the period from 2000 to 2020. Employees who left after 2020 were included in the analysis as if they were still active durning the 2000 to 2020 period.  
