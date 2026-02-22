@@ -33,15 +33,15 @@ Analyze employee distribution by categories and support strategic decisions in w
  - A large number of employees work at the headquarters versus remotely(75% of total employees).
  - The average length of employment for terminated employees is around 6.6 years.
  - A large number of employees come from the state of Ohio.
- - The Marketing department has the highest average tenure (7.82) and the Auditing is the least (5.53).
+ - The Marketing department has the highest average tenure (7.82 year) and the Auditing is the least (5.53 year).
  - The Auditing has the highest turnover rate (0.12) and the least is Businees Development (0.08).
  - The Employee cohort retention has increased over the years.
 
   ## Recommendations
 
-  - Create plans to reduce turnover in departments with high employee exits especially the Auditing by understanding why employees leave and improving their experience.
+  - Create plans to reduce turnover in departments with high employee exits especially in the Auditing department and among female employees compared to males, by understanding why they leave and improving their experience.
   - Give additional attention to younger employees (18-30) as an important group for future growth, and attract more of them with internships and entry-level jobs.
-  - Increase the average tenure in the departments that are below the ovearll company average like Auditing, Legal, Support by using targeted training programmes, clear growth paths and ongoing feedback to lengthen employee tenure. 
+  - Increase the average tenure in the departments that are below the ovearll company average like Auditing, Legal and Support by using targeted training programmes, clear growth paths and ongoing feedback to lengthen employee tenure.
 
 ## Note
 
