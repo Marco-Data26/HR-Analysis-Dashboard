@@ -15,7 +15,7 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 **Data Source** - ([Human Resources.csv](Human%20Resources.csv))
 
-**Data Cleaning & Analysis** - SQL server (Cleaning_Queries.sql)
+**Data Cleaning & Analysis** - SQL server [(Cleaning_Queries.sql)](Cleaning_Queries.sql)
 
 **Data Visualization** - PowerBI
 
