@@ -21,7 +21,7 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 ## Objective
 
-
+Analyze employee distribution by categories and support strategic decisions in workforce management. 
 
 ## Key Insights
 
@@ -39,8 +39,10 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
   ## Recommendations
 
-  
+  - Create plans to reduce turnover in departments with high employee exits especially the Auditing by understanding why employees leave and improving their experience.
+  - Give additional attention to younger employees (18-30) as an important group for future growth, and attract more of them with internships and entry-level jobs.
+  -  
 
 ## Note
 
-- The analysis presented in this report covers the period from 2000 to 2020. Employees who left after 2020 were included in the analysis as if they were still active durning the 2000 to 2020 period.  
+- The analysis covers the period from 2000 to 2020. Employees who left after 2020 were included in the analysis as if they were still active durning the 2000 to 2020 period.  
