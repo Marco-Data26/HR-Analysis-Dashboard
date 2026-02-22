@@ -17,7 +17,7 @@ This dashboard provid a view of HR performance, key workforce insights and suppo
 
 **Data Cleaning & Analysis** - SQL server [(Cleaning_Queries.sql)](Cleaning_Queries.sql) / [(Questions_Queries.sql)](Questions_Queries.sql)
 
-**Data Visualization** - PowerBI [Power_bi](HR_Report.pbix)
+**Data Visualization** - PowerBI [(HR_Report.pbix)](HR_Report.pbix)
 
 ## Objective
 
