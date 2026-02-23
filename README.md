@@ -28,11 +28,11 @@ Analyze workforce demographics, retention, and turnover trends to support strate
  - Number of current employees is 20316.
  - There are more male employees.
  - The white race is the most dominant while Native Hawaiian and American Indian are the least.
+ - Most employees come from the state of Ohio.
  - The youngest employee is 18 years old and the oldest is 55 years old.
  - 3 age groups were created (18-30, 31-45, 46-60). A large number of employees were between 31-45 followed by 18-30 while the smallest group was 46-60.
  - Most employees work at headquarters (75% of total employees), compared to remote roles.
  - The average length of employment for terminated employees is around 6.6 years.
- - Most employees come from the state of Ohio.
  - The Marketing department has the highest average tenure (7.82 years) and the Auditing department has the lowest (5.53 years).
  - The Auditing has the highest turnover rate (0.12) and the least is Business Development (0.08).
  - Employee cohort retention has shown consistent improvement over time.
