@@ -7,7 +7,7 @@
 
 Human Resources dashboard using Power BI.
 
-This dashboard provides insights into HR performance, key workforce insights, and support data-driven decision making.
+This dashboard provides insights into HR performance, key workforce trends, and support data-driven decision making.
 
 ## Data & Tools Used
 
@@ -30,7 +30,7 @@ Analyze workforce demographics, retention, and turnover trends to support strate
  - The white race is the most dominant while Native Hawaiian and American Indian are the least.
  - The youngest employee is 18 years old and the oldest is 55 years old.
  - 3 age groups were created (18-30, 31-45, 46-60). A large number of employees were between 31-45 followed by 18-30 while the smallest group was 46-60.
- - A large number of employees work at the headquarters versus remotely(75% of total employees).
+ - Most employees work at headquarters (75% of total employees), compared to remote roles.
  - The average length of employment for terminated employees is around 6.6 years.
  - A large number of employees come from the state of Ohio.
  - The Marketing department has the highest average tenure (7.82 years) and the Auditing department has the lowest (5.53 years).
