@@ -27,8 +27,8 @@ Analyze workforce demographics, retention, and turnover trends to support strate
 
  - Number of current employees is 20316.
  - There are more male employees.
- - The white race is the most dominant (5800), while Native Hawaiian and American Indian are the least (1100-1200).
- - Most employees come from the state of Ohio.
+ - The white race is the most dominant (5787), while Native Hawaiian and American Indian are the least (1110-1209).
+ - Most employees come from the state of Ohio (16458).
  - The youngest employee is 18 years old and the oldest is 55 years old.
  - 3 age groups were created (18-30, 31-45, 46-60). A large number of employees were between 31-45 followed by 18-30 while the smallest group was 46-60.
  - Most employees work at headquarters (75% of total employees), compared to remote roles.
