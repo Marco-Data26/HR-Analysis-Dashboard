@@ -1,4 +1,4 @@
-# HR-Dashboard-MySQL-PowerBI
+# HR-Analysis-Dashboard
 
 ![image](HR_Dashboard.png)
 ![image](HR_Dashboard2.png)
