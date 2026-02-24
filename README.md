@@ -5,7 +5,7 @@
 
 ## Description
 
-Human Resources dashboard using Power BI.
+Human Resources dashboard using SQL server and Power BI.
 
 This dashboard provides insights into HR performance, key workforce trends, and support data-driven decision making.
 
